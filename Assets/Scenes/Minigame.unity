@@ -683,9 +683,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99ea7b9b30ab0e94d9a72a2d31c21c3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 6
   countText: {fileID: 557488712}
   winTextObject: {fileID: 2022402962}
+  maxjumpforce: 25
 --- !u!114 &335498074
 MonoBehaviour:
   m_ObjectHideFlags: 0
